@@ -1,0 +1,3 @@
+This is just me trying out the tutorial from the YouTube channel [thenewboston](https://www.youtube.com/user/thenewboston) video 11 which talks about object factory. These are objects that make other objects.
+
+In the tutorial he does not invoke the constructor function in movie.js so I wanted to see if this could be done without having to call the constructor function after importing the module in each emily.js and natac.js; which are the modules representing the users.
